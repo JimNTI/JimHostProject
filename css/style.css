@@ -1,1 +1,10 @@
-/* Egen custom CSS här */
+ 
+  body.dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+
+  body.dark-mode .card {
+    background-color: #1b2838;
+    color: white;
+  }
